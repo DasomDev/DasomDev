@@ -10,8 +10,7 @@ I’m a frontend developer based in Korea 🇰🇷, with 3+ years of experience 
 ### 🛠️ What I’m working on
 - 🎓 Developing a **real-time interactive whiteboard** for teacher training programs  
   (Canvas-based, modular authoring system)
-- 📚 Built an **AI-powered vocabulary editor** to assist language learning  
-  (Vue + AI integration for personalized word recommendations)
+- 🧠 Built an **AI-powered** vocabulary editor that helps teachers quickly generate level-based wordbooks by selecting a language, and learner level.
 
 ### 📫 How to reach me
 - Blog/Portfolio: http://dasomdev.github.io
