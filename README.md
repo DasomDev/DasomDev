@@ -5,7 +5,7 @@ I’m a frontend developer based in Korea 🇰🇷, with 3+ years of experience 
 🧩 Proficient in Vue.js (Composition API & Setup syntax)  
 📊 Experienced with data visualization libraries like D3.js and Chart.js  
 🎨 Skilled in Canvas and advanced interactive UI development  
-🧪 Currently exploring **React, TypeScript**, and modern frontend architecture
+🧪 Currently exploring **React, TypeScript, Flutter**, and modern frontend architecture
 
 
 ### 🛠️ What I’m working on
