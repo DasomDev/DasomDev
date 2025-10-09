@@ -1,18 +1,42 @@
-# 👋 Hi, I'm Dasom!
+<h1 align="center">👋 Dasom Cho — crafting things that people find useful</h1>
 
-I’m a frontend developer based in Korea 🇰🇷, with 3+ years of experience building interactive web-based tools for education.
+<p align="center">
+  🚀 Frontend Developer passionate about building interactive and creative web experiences  
+</p>
 
-🧩 Proficient in Vue.js (Composition API & Setup syntax)  
-📊 Experienced with data visualization libraries like D3.js and Chart.js  
-🎨 Skilled in Canvas and advanced interactive UI development  
-🧪 Currently exploring **React, TypeScript, Flutter**, and modern frontend architecture
+---
 
+### 🧩 Tech Stack
 
-### 🛠️ What I’m working on
-- 🎓 Developing a **real-time interactive whiteboard** for teacher training programs  
-  (Canvas-based, modular authoring system)
-- 🧠 Built an **AI-powered** vocabulary editor that helps teachers quickly generate level-based wordbooks by selecting a language, and learner level.
+- **Proficient in Vue.js** (2+ years, Composition API & Setup syntax)  
+- **Currently focused on React, Next.js**, and modern **TypeScript** architecture  
+- **Experienced in Canvas-based authoring tools** and **interactive web applications**  
+- Exploring **Flutter** for cross-platform mobile development  
 
-### 📫 How to reach me
-- Blog/Portfolio: http://dasomdev.github.io
-- Email: dasomcho.dev@gmail.com
+---
+
+### 🛠️ What I’m Working On
+
+- 🧠 Developing a **Next.js flashcard app** with a custom backend and spaced-repetition logic  
+- 📲 Building a **Flutter companion app** to sync with the web platform  
+- 🎮 Experimenting with **web-based mini games** for playful learning experiences  
+
+---
+
+### 🌱 Goals
+
+- Deepen my understanding of **React ecosystem** and scalable frontend architecture  
+- Explore **AI integration** and **real-time interactivity** in education tools  
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 [**Blog / Portfolio**](http://dasomdev.github.io)  
+- 📧 **dasomcho.dev@gmail.com**
+
+---
+
+<p align="center">
+  <i>“I just want to build things that are genuinely helpful to people.”</i> 🌱
+</p>
