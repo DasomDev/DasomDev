@@ -8,26 +8,27 @@
 
 ### 🧩 Tech Stack
 
-- **Proficient in Vue.js** (2+ years, Composition API & Setup syntax)  
-- **Currently focused on React, Next.js**, and modern **TypeScript** architecture  
-- **Experienced in Canvas-based authoring tools** and **interactive web applications**  
+- **Proficient in Vue.js** (3+ years, Composition API & Setup syntax)  
+- **Currently focused on React.js**, and modern **TypeScript** architecture  
+- Experienced in building interactive web applications, including CMS, admin dashboards, and **data visualizations** using Chart.js, D3.js, and similar libraries
 - Exploring **Flutter** for cross-platform mobile development  
 
 ---
 
 ### 🛠️ What I’m Working On
 
-- 🧠 Developing a **Next.js flashcard app** with a custom backend and spaced-repetition logic  
-- 📲 Building a **Flutter companion app** to sync with the web platform  
-- 🎮 Experimenting with **web-based mini games** for playful learning experiences  
+- 🧠 Developing a React-based flashcard app
+- 📲 Developing Flutter apps to expand the service to mobile platforms
+- 📚 Deepening knowledge in frontend architecture and best practices
 
 ---
 
 ### 🌱 Goals
 
-- Deepen my understanding of **React ecosystem** and scalable frontend architecture  
-- Explore **AI integration** and **real-time interactivity** in education tools  
-
+- Improve **frontend architecture and code structure** for scalable applications  
+- Create **meaningful and effective user experiences**  
+- Iterate and **refine products based on user feedback**
+  
 ---
 
 ### 📫 Connect with Me
@@ -39,5 +40,5 @@
 ---
 
 <p align="center">
-  <i>“I just want to build things that are genuinely helpful to people.”</i> 🌱
+  <i>“I focus on building thoughtful solutions that have a real and positive impact on users.”</i> 🌱
 </p>
