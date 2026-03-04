@@ -1,4 +1,4 @@
-<h1 align="center">👋 Dasom Cho — crafting things that people find useful</h1>
+<h1 align="center">Dasom Cho — crafting things that people find useful</h1>
 
 <p align="center">
   🚀 Frontend Developer passionate about building interactive and creative web experiences  
@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <i>“I focus on building thoughtful solutions that have a real and positive impact on users.”</i> 🌱
+  <i>“I focus on building thoughtful solutions that have a real and positive impact on users.”</i> 
 </p>
