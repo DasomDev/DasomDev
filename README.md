@@ -16,11 +16,9 @@
 ---
 
 ### 🛠️ What I’m Working On
-
-- 🧠 Developing a React-based flashcard app
-- 📲 Developing Flutter apps to expand the service to mobile platforms
-- 📚 Deepening knowledge in frontend architecture and best practices
-
+- Building 10 services this year (2 shipped)
+- Bias toward shipping
+- Next.js in production
 ---
 
 ### 🌱 Goals
