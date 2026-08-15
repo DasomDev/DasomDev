@@ -32,7 +32,6 @@
 ### 📫 Connect with Me
 
 - 🪩 [**Portfolio**](http://dasomdev.github.io)
-- 📓 [**Blog**](https://difflog.pages.dev/)  
 - 📧 **dasomcho.dev@gmail.com**
 
 ---
