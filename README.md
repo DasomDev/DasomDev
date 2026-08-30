@@ -1,7 +1,7 @@
 <h1 align="center">Dasom Cho — crafting things that people find useful</h1>
 
 <p align="center">
-  🚀 Frontend Developer turning ideas into interactive web products 
+  Frontend Developer turning ideas into interactive web products 
 </p>
 
 ---
